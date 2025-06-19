@@ -40,5 +40,4 @@ The dataset used includes:
 - Microsoft Excel (for data preparation)
 - DAX for KPI metrics and calculated fields
 
----
 
